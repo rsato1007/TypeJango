@@ -9,6 +9,11 @@
   "author": "Robert",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^20.8.3",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0"
   }
 }
